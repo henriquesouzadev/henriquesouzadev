@@ -1,6 +1,6 @@
 ### Hi there, I’m Carlos Henrique 👋 
 
-I’m Front-End Developer from Brazil and I love creating web interfaces!
+I’m Front-End Developer from Brazil and I love create web interfaces!
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/chsouza/">
